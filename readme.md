@@ -1,6 +1,6 @@
 # Scripts
 
-These are a compilation of scripts being used on flow_app
+These are a compilation of scripts I use
 
 ## Setting Up
 
@@ -33,4 +33,5 @@ This script checks our dependencies for unused items.
 
 ### translation.sh
 Use this script to manually generate the localizations
+
 
